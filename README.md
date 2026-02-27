@@ -2,7 +2,7 @@
 Power BI dashboard analyzing Pune’s jewellery market using population, GMB listings, and search demand.
 ## 🖼️ Dashboard Preview
 
-![Pune Jewellery Market Intelligence Dashboard](Dashboard page 1.png)
+![Pune Jewellery Market Intelligence Dashboard](dashboard-page-1.png)
 # 🛍️ Pune Jewellery Market Intelligence Dashboard
 
 A comprehensive **Power BI Market Intelligence Dashboard** analyzing the jewellery retail landscape across Pune.  
